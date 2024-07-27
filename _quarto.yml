@@ -5,7 +5,7 @@ project:
 website:
   title: "Sunwoo Kwak's Website"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - CV.qmd
