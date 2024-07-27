@@ -5,7 +5,8 @@ title: "CV"
 `updated: 2024-07-27`
 
 # Sunwoo Kwak
-sunwookwak@gmail.com
+- Email: sunwookwak@gmail.com
+- LinkedIn: [linkedin.com/in/sunwookwak/](https://www.linkedin.com/in/sunwookwak/)
 
 ## Education
 1. M.A. Candidate. Political Science [*Starting Mar 2025*]
