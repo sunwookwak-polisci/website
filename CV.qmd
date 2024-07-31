@@ -2,30 +2,30 @@
 title: "CV"
 ---
 
-`updated: 2024-07-27`
+`updated: 2024-07-31`
 
-# Sunwoo Kwak
+**Sunwoo Kwak**
 - Email: sunwookwak@gmail.com
 - LinkedIn: [linkedin.com/in/sunwookwak/](https://www.linkedin.com/in/sunwookwak/)
 
-## Education
+# Education
 1. M.A. Candidate. Political Science [*Starting Mar 2025*]
 	- Department of Political Science, Yonsei University
 2. **B.A. Political Science and International Relations** [*Graduating Feb 2025*]
 	- Underwood International College, Yonsei University
 
-## Interests
+# Interests
 American Politics; Comparative Politics; Legislative Studies; Electoral Studies; Political Communications
 
-## Research
-### Working Papers & Presentations
+# Research
+## Working Papers & Presentations
 1. **"Mentioning Party Labels in Campaign Ads: Changing Campaign Behavior under a Polarized and Nationalized Context"** (with Yoojin Kim, Kyungrim Chung)
-	1. To be presented @ *World Association for Public Opinion Research (WAPOR) 2024 Annual Conference* (July 2024; Seoul, South Korea)
+	1. Presented @ *World Association for Public Opinion Research (WAPOR) 2024 Annual Conference* (July 2024; Seoul, South Korea)
 	1. Presented @ *Korea Political Science Association (KPSA) 2023 Annual Conference*, (December 2023; Seoul, South Korea)[^fn.240727.171145]
 2. **"Geographic Representation in South Korean National Assembly"** (with Juhyeon Jeong, Eunmi Cho, Kazuhiro Terashita)
 	1. To be presented @ *Korea Political Science Association (KPSA) 2024 Summer Conference*, (August 2024; Busan, South Korea)
 
-## Experience
+# Experience
 1. **Undergraduate Lab Member** [September 2023 – ]
 	- at [Qualities of Democracy Lab](https://www.bk21pol.yonsei.ac.kr/labs/qualities-of-democracy-lab) (Department of Political Science, Yonsei University) 
 2. **Teaching Assistant** [August 2023 – ]
@@ -34,19 +34,19 @@ American Politics; Comparative Politics; Legislative Studies; Electoral Studies;
 	- for 2024 Summer Web Scraping and Text Analysis Intensive Course (Department of Political Science, Yonsei University)
 	- Instructor: Jiyoung Park
 
-## Honors, Awards, & Scholarships
+# Honors, Awards, & Scholarships
 1. Yonsei University (Undergrad)
 	1. Awarded highest Honors (2023 Fall)
 	2. Awarded Highest Honors (2023 Spring)
 	3. Awarded Honors (2020 Spring)
 
-## Skills
+# Skills
 1. R
 
-## Traning
+## Trainings
 1. Korea Association of Party Studies (KAPS) Summer Methods Workshop, July 2024.
 
-## Languages
+# Languages
 1. Korean [native]
 2. English [professional]
 
