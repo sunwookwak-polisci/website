@@ -1,11 +1,15 @@
 ---
 title: "CV"
 format: 
-  html: default
   pdf: default
+  html: default
 ---
 
 `updated: 2024-07-31`
+
+Download as [PDF](https://sunwookwak-polisci.github.io/sunwookwak-polisci/CV.pdf)
+
+----
 
 **Sunwoo Kwak**
 
