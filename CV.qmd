@@ -1,5 +1,8 @@
 ---
 title: "CV"
+format: 
+  html: default
+  pdf: default
 ---
 
 `updated: 2024-07-31`
@@ -14,6 +17,7 @@ title: "CV"
 	- Department of Political Science, Yonsei University
 2. **B.A. Political Science and International Relations** [*Graduating Feb 2025*]
 	- Underwood International College, Yonsei University
+	- *Linked Bachelors-Masters Program* with Department of Political Science, Yonsei University. 
 
 # Interests
 American Politics; Comparative Politics; Legislative Studies; Electoral Studies; Political Communications
@@ -44,7 +48,7 @@ American Politics; Comparative Politics; Legislative Studies; Electoral Studies;
 # Skills
 1. R
 
-## Trainings
+# Trainings
 1. Korea Association of Party Studies (KAPS) Summer Methods Workshop, July 2024.
 
 # Languages
