@@ -1,13 +1,11 @@
 ---
 title: "CV"
 format: 
-  pdf: default
   html: default
+  pdf: default
 ---
 
 `updated: 2024-08-20`
-
-Download as [PDF](https://sunwookwak-polisci.github.io/sunwookwak-polisci/CV.pdf)
 
 ----
 
@@ -56,7 +54,7 @@ American Politics; Comparative Politics; Political Institutions; Legislative Stu
     3. Awarded Honors (2020 Spring)
 
 # Skills
-1. R (& Quarto Markdown)
+1. R `with RMarkdown and Quarto`
 2. LaTeX
 
 # Trainings
