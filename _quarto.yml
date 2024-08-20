@@ -15,6 +15,7 @@ format:
     theme: flatly
     css: styles.css
     toc: true
+    linestretch: 2
 
 
 

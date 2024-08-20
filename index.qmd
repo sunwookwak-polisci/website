@@ -2,11 +2,17 @@
 title: "Sunwoo Kwak"
 ---
 
-I am studying Political Science at Yonsei University (Seoul, South Korea).
+Studying political science --- @ Yonsei University (Seoul, South Korea)
+
+1. M.A. Candidate. Political Science [*Starting Mar 2025*]
+	- Department of Political Science, Yonsei University
+2. **B.A. Political Science and International Relations** [*Graduating Feb 2025*]
+	- Underwood International College, Yonsei University
+	  - *Linked Bachelors-Masters Program* with Department of Political Science, Yonsei University. 
 
 # Contacts
 - Email: sunwookwak@gmail.com
 - LinkedIn: [linkedin.com/in/sunwookwak/](https://www.linkedin.com/in/sunwookwak/)
 
-# Information
-- [CV](https://sunwookwak-polisci.github.io/sunwookwak-polisci/CV.html)
+# CV
+- [CV link](https://sunwookwak-polisci.github.io/sunwookwak-polisci/CV.html)
