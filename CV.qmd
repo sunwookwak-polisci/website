@@ -1,8 +1,7 @@
 ---
 title: "CV"
-format:
-  html: default
 ---
 
 `updated: 2025-02-23`
 
+[CV Link](https://sunwookwak-polisci.github.io/sunwookwak-polisci/CV_2025_02.pdf)
