@@ -10,6 +10,7 @@ title: Sunwoo Kwak
 
 # Contacts
 - Email: sunwookwak@gmail.com
+- Google Scholar: [Sunwoo Kwak](https://scholar.google.com/citations?user=c22rzSYAAAAJ&hl=en)
 - LinkedIn: [linkedin.com/in/sunwookwak/](https://www.linkedin.com/in/sunwookwak/)
 
 # CV

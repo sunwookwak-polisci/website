@@ -2,68 +2,7 @@
 title: "CV"
 format:
   html: default
-  pdf: default
 ---
 
-`updated: 2024-08-23`
+`updated: 2025-02-23`
 
-----
-
-**Sunwoo Kwak**
-
-- Email: sunwookwak@gmail.com
-- LinkedIn: [linkedin.com/in/sunwookwak/](https://www.linkedin.com/in/sunwookwak/)
-
-# Education
-1. M.A. Political Science [*Starting Mar 2025*]
-	- Department of Political Science, Yonsei University
-2. **B.A. Political Science and International Relations** [*Graduating Feb 2025*]
-	- Underwood International College, Yonsei University
-	  - *Linked Bachelors-Masters Program* with Department of Political Science, Yonsei University. 
-
-# Interests
-American Politics; Comparative Politics; Political Institutions; Legislative Studies; Electoral Studies; Political Communications
-
-# Research
-## Working Papers & Presentations
-1. **"Mentioning Party Labels in Campaign Ads: Changing Campaign Behavior under a Polarized and Nationalized Context"** (with Yoojin Kim and Kyungrim Chung)
-    - `Conference Presentations`
-        1. *World Association for Public Opinion Research (WAPOR) 2024 Annual Conference* (July 2024; Seoul, South Korea)
-        1. *Korea Political Science Association (KPSA) 2023 Annual Conference* (December 2023; Seoul, South Korea)[^fn.240727.171145]
-    - `Workshop Presentations`
-        1. *Yonsei University Qualities of Democracy Lab -- Korea University Political Economy Lab Joint Workshop* (June 2024; Seoul, South Korea)[^fn.240820.135600]
-
-2. **"Geographic Representation in South Korean National Assembly"** (with Eunmi Cho, Juhyeon Jeong, and Kazuhiro Terashita)
-    - `Conference Presentations`
-        1. *Korea Political Science Association (KPSA) 2024 Summer Conference* (August 2024; Busan, South Korea)
-
-# Experience
-1. **Lab Member** [September 2023 – ]
-	- *at* [Qualities of Democracy Lab](https://www.bk21pol.yonsei.ac.kr/labs/qualities-of-democracy-lab) (Department of Political Science, Yonsei University) 
-2. **Teaching Assistant** [August 2023 – ]
-	- *for* [Dr. Paul D. Tonks](https://uic.yonsei.ac.kr/main/academic.asp?mid=m03_01_01&act=view&uid=821&keyword=paul) (Professor of History at Underwood International College, Yonsei University) 
-3. **Teaching Assistant** [July 2024]
-	- *for* 2024 Summer Web Scraping and Text Analysis Intensive Course (Yonsei University Political Research Institute)
-	  - Instructor: Jiyoung Park
-
-# Honors, Awards, & Scholarships
-1. Yonsei University (Undergrad)
-    1. Awarded Highest Honors (2023 Fall)
-    2. Awarded Highest Honors (2023 Spring)
-    3. Awarded Honors (2020 Spring)
-
-# Skills
-1. R `with RMarkdown and Quarto`
-2. LaTeX
-
-# Trainings
-1. Korea Association of Party Studies (KAPS) Summer Methods Workshop (July 2024)
-
-# Languages
-1. Korean [native]
-2. English [professional]
-
-
-
-[^fn.240727.171145]: Presented as: "The Use of Party Label in an Era of Political Polarization"
-[^fn.240820.135600]: Presented as: "Running for My Party? Party Label in Campaign Ads in an Era of Political Polarization"
