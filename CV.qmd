@@ -4,4 +4,6 @@ title: "CV"
 
 `updated: 2025-02-23`
 
-![CV Link](https://sunwookwak-polisci.github.io/sunwookwak-polisci/CV_2025_02.pdf)
+![](https://sunwookwak-polisci.github.io/sunwookwak-polisci/CV_2025_02.pdf)
+
+[Download PDF](https://sunwookwak-polisci.github.io/sunwookwak-polisci/CV_2025_02.pdf)
