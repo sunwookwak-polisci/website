@@ -2,10 +2,10 @@
 title: Sunwoo Kwak
 ---
 
-1. **M.A. in Political Science, Yonsei University** (*Expected: 2026*)[^fn.250223.172756]
+1. **M.A. in Political Science, Yonsei University** (*Expected: 2026*)
     - Department of Political Science  
 
-2. **B.A. in Political Science and International Relations, Yonsei University** (*2025*)[^fn.250223.172756]
+2. **B.A. in Political Science and International Relations, Yonsei University** (*2025*)
     - Underwood International College, Yonsei University
 
 # Contacts
@@ -15,8 +15,3 @@ title: Sunwoo Kwak
 
 # CV
 - [CV link](https://sunwookwak-polisci.github.io/website/CV.html)
-
-
-
-
-[^fn.250223.172756]: Enrolled in *Linked Bachelor-Master Program* since Fall 2023.
