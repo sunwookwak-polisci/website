@@ -82,11 +82,11 @@ Underwood International College, Yonsei University
 ```
 "Who are the People? A Computational History of Democracy" (with Hyeongjae Lee, Seonwoo Ahn, Jisung Yoon, June Jeon, and Taegyoon Kim)
 
-"Signaling Through Donors: How Primary Challenge Contributions Shape Congressional Behavior" ***(Presented at 2025 APSA conference).***
+"Signaling Through Donors: How Primary Challenge Contributions Shape Congressional Behavior"
 
-"Economic Agendas in Governors' Speeches Using Text as Data: Impact of Electoral and Institutional Conditions" (with Eunmi Cho). ***(Presented at 2025 MPSA conference).***
+"Economic Agendas in Governors' Speeches Using Text as Data: Impact of Electoral and Institutional Conditions" (with Eunmi Cho)
 
-"Mentioning Party Labels in Campaign Ads: Changing Campaign Behavior under a Polarized and Nationalized Context" (with Kyungrim Chung and Yoojin Kim). ***(Presented at 2023 KPSA conference and 2024 WAPOR conference).***
+"Mentioning Party Labels in Campaign Ads: Changing Campaign Behavior under a Polarized and Nationalized Context" (with Kyungrim Chung and Yoojin Kim)
 
 ```{=latex}
 \end{rSection}
