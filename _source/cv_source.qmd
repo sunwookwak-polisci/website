@@ -70,7 +70,7 @@ Underwood International College, Yonsei University
 ```{=latex}
 \end{rSection}
 
-\begin{rSection}{MANUSCRIPTS UNDER REVIEW}
+\begin{rSection}{UNDER REVIEW}
 ```
 
 1. **Kwak, Sunwoo**, Sinjae Kang, and Eunmi Cho. "Who Controls the Legislative Process? Party Cartels, Committee Gatekeepers, and Subcommittee Activity in the South Korean National Assembly." *Legislative Studies Quarterly*. (Revise and Resubmit)
