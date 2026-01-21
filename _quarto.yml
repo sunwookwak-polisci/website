@@ -8,7 +8,8 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - CV.qmd
+      - href: cv.qmd
+        text: CV
 
 format:
   html:

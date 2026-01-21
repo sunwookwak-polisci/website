@@ -1,0 +1,192 @@
+---
+format:
+  pdf:
+    documentclass: resume
+    keep-tex: false
+    include-in-header:
+      - text: |
+          \usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.75in]{geometry}
+          \usepackage{atenddvi}
+          \usepackage{hyperref}
+          \usepackage{enumitem}
+          \usepackage{lastpage}
+          \usepackage{fancyhdr}
+          \pagestyle{fancy}
+          \fancyhf{}
+          \fancyfoot[C]{\thepage/\pageref*{LastPage}}
+          \renewcommand{\headrulewidth}{0pt}
+          \renewcommand{\footrulewidth}{0pt}
+          \setlength{\footskip}{30pt}
+          \renewcommand{\familydefault}{\sfdefault}
+          \newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+          \newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+          \name{Sunwoo Kwak}
+          \address{\href{https://scholar.google.com/citations?user=c22rzSYAAAAJ&hl=en}{Google Scholar} / \href{https://sunwookwak-polisci.github.io/website/}{Website}}
+          \address{Sinchon-dong, Seodaemun-gu, Seoul, Republic of Korea}
+---
+
+\begin{center}
+(Updated: January 21, 2026)
+\end{center}
+
+```{=latex}
+\begin{rSection}{Education}
+```
+
+**M.A. in Political Science** \hfill (Expected: 2026)\
+Department of Political Science, Yonsei University
+
+**B.A. in Political Science and International Relations** \hfill 2025\
+Underwood International College, Yonsei University
+
+```{=latex}
+\end{rSection}
+```
+
+```{=latex}
+\begin{rSection}{RESEARCH INTERESTS}
+```
+
+• **American Politics**
+
+• **Legislative Studies and Congress**
+
+• **Political Parties and Elections**
+
+• **Political Communication and Public Opinion**
+
+```{=latex}
+\end{rSection}
+```
+
+```{=latex}
+\begin{rSection}{PUBLICATIONS}
+```
+
+1. Kang, Sinjae, **Sunwoo Kwak**, and Jeongmin Lee. 2025. "Did the 2019 Revision of the National Assembly Act Revitalize Subcommittees? Analyzing the Frequency and Scheduling Determinants of Bill Review Subcommittee Meetings." *Legislation and Policy Studies*, 17(1): 5--36. [in Korean]
+
+2. Terashita, Kazuhiro, Eunmi Cho, Juhyeon Jeong, and **Sunwoo Kwak**. 2024. "Who Mentions the Region?: Analyzing Geographical Representation through Parliamentary Speeches." *Journal of Parliamentary Research*, 19(2): 5--42. [in Korean]
+
+```{=latex}
+\end{rSection}
+
+\begin{rSection}{MANUSCRIPTS UNDER REVIEW}
+```
+
+1. **Kwak, Sunwoo**, Sinjae Kang, and Eunmi Cho. "Who Controls the Legislative Process? Party Cartels, Committee Gatekeepers, and Subcommittee Activity in the South Korean National Assembly." *Legislative Studies Quarterly*. (Revise and Resubmit)
+
+```{=latex}
+\end{rSection}
+
+\begin{rSection}{WORKING PAPERS}
+```
+"Who are the People? A Computational History of Democracy" (with Hyeongjae Lee, Seonwoo Ahn, Jisung Yoon, June Jeon, and Taegyoon Kim)
+
+"Signaling Through Donors: How Primary Challenge Contributions Shape Congressional Behavior" ***(Presented at 2025 APSA conference).***
+
+"Economic Agendas in Governors' Speeches Using Text as Data: Impact of Electoral and Institutional Conditions" (with Eunmi Cho). ***(Presented at 2025 MPSA conference).***
+
+"Mentioning Party Labels in Campaign Ads: Changing Campaign Behavior under a Polarized and Nationalized Context" (with Kyungrim Chung and Yoojin Kim). ***(Presented at 2023 KPSA conference and 2024 WAPOR conference).***
+
+```{=latex}
+\end{rSection}
+
+\clearpage
+
+\begin{rSection}{PRESENTATIONS}
+```
+
+American Political Science Association (APSA) Annual Conference \hfill \textit{2025}
+
+Midwest Political Science Association (MPSA) Annual Conference \hfill \textit{2025}
+
+International Political Science Association (IPSA) Annual Conference \hfill \textit{2025}
+
+International Studies Association (ISA) Annual Conference \hfill \textit{2025}
+
+World Association of Public Opinion Research (WAPOR) Annual Conference \hfill \textit{2024}
+
+World Association of Public Opinion Research (WAPOR) Asia Pacific Annual Conference \hfill \textit{2025}
+
+Korean Political Science Association (KPSA) Annual Conference \hfill \textit{2023, 2024}
+
+Korean Political Science Association (KPSA) Summer Conference \hfill \textit{2024, 2025}
+
+
+
+```{=latex}
+\end{rSection}
+
+\begin{rSection}{AWARDS \& HONORS}
+```
+
+**Graduate**
+
+- Awarded Best Paper Award by the Yonsei University Graduate Student Association Academic Support Program (November 2025)
+   - "Economic Agendas in Governors' Speeches Using Text as Data: Impact of Electoral and Institutional Conditions"
+
+
+**Undergraduate**
+
+- Awarded Highest Honors Scholarship (Spring 2023, Fall 2023, Spring 2024, Fall 2024)
+
+```{=latex}
+\end{rSection}
+
+\begin{rSection}{TEACHING EXPERIENCE}
+```
+
+**Graduate Teaching Assistant** (Department of Political Science, Yonsei University)
+
+- Applied Data Analysis (Spring 2025)
+- Method of Empirical Research (Spring 2025)
+
+```{=latex}
+\end{rSection}
+
+\begin{rSection}{RESEARCH EXPERIENCE}
+```
+
+**Lab Member** (Department of Political Science, Yonsei University)
+
+- Applied Political Methodology Lab (Fall 2024--; *Lab Manager since Fall 2025*)
+
+- Qualities of Democracy Lab (Fall 2023--)
+
+```{=latex}
+\end{rSection}
+
+\begin{rSection}{METHODS TRAINING}
+```
+
+**Workshop and Program Participation**
+
+- "2025 Summer Institute in Computational Social Science in Korea (SICSS-Korea)" organized by KDI School of Public Policy and Management and KAIST.
+- "2024 Summer Methods Workshop" organized by Korea Association of Party Studies (KAPS).
+
+
+**Related Coursework**
+
+- "Special Topics in Political Methodology" (Spring 2025)
+- "Advanced Method of Empirical Research" (Fall 2024)
+- "Research Methods in Political Science" (Fall 2024)
+- "Applied Data Analysis" (Spring 2023)
+
+```{=latex}
+\end{rSection}
+
+\begin{rSection}{COMPUTATIONAL SKILLS}
+```
+**R, Stata, Python, LaTeX, Quarto**
+
+```{=latex}
+\end{rSection}
+
+\begin{rSection}{LANGUAGES}
+```
+**Korean** (Native), **English** (Fluent)
+
+```{=latex}
+\end{rSection}
+```
+
