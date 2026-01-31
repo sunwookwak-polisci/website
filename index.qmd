@@ -6,10 +6,10 @@ I am a graduate student in Political Science at Yonsei University (Seoul, South 
 
 I study American Politics, Legislative Studies, Elections, and Public Opinion.
 
-# CV
+### CV
 - [CV link](cv.html)
 
-# Contacts
+### Contacts
 - Email: [sunwookwak@yonsei.ac.kr](mailto:sunwookwak@yonsei.ac.kr)
 - Google Scholar: [Sunwoo Kwak](https://scholar.google.com/citations?user=c22rzSYAAAAJ&hl=en)
 - LinkedIn: [linkedin.com/in/sunwookwak/](https://www.linkedin.com/in/sunwookwak/)

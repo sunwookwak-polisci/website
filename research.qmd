@@ -1,0 +1,25 @@
+---
+title: "Research"
+---
+
+## Publications
+
+1. Kang, Sinjae, **Sunwoo Kwak**, and Jeongmin Lee. 2025. "Did the 2019 Revision of the National Assembly Act Revitalize Subcommittees? Analyzing the Frequency and Scheduling Determinants of Bill Review Subcommittee Meetings." *Legislation and Policy Studies*, 17(1): 5--36. [in Korean]
+   - [Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003197183)
+
+2. Terashita, Kazuhiro, Eunmi Cho, Juhyeon Jeong, and **Sunwoo Kwak**. 2024. "Who Mentions the Region?: Analyzing Geographical Representation through Parliamentary Speeches." *Journal of Parliamentary Research*, 19(2): 5--42. [in Korean]
+   - [Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003158367)
+
+## Under Review
+
+1. **Kwak, Sunwoo**, Sinjae Kang, and Eunmi Cho. "Who Controls the Legislative Process? Party Cartels, Committee Gatekeepers, and Subcommittee Activity in the South Korean National Assembly." *Legislative Studies Quarterly*. (Revise and Resubmit)
+
+## Working Papers
+
+- "Who are the People? A Computational History of Democracy" (with Hyeongjae Lee, Seonwoo Ahn, Jisung Yoon, June Jeon, and Taegyoon Kim)
+
+- "Signaling Through Donors: How Primary Challenge Contributions Shape Congressional Behavior"
+
+- "Economic Agendas in Governors' Speeches Using Text as Data: Impact of Electoral and Institutional Conditions" (with Eunmi Cho)
+
+- "Mentioning Party Labels in Campaign Ads: Changing Campaign Behavior under a Polarized and Nationalized Context" (with Kyungrim Chung and Yoojin Kim)
