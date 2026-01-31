@@ -2,7 +2,9 @@
 title: Sunwoo Kwak
 ---
 
-I am a graduate student in Political Science at Yonsei University (Seoul, South Korea). I study American Politics, Legislative Studies, Elections, and Public Opinion.
+I am a graduate student in Political Science at Yonsei University (Seoul, South Korea).
+
+I study American Politics, Legislative Studies, Elections, and Public Opinion.
 
 # CV
 - [CV link](cv.html)
