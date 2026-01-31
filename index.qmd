@@ -2,16 +2,12 @@
 title: Sunwoo Kwak
 ---
 
-1. **M.A. in Political Science, Yonsei University** (*Expected: 2026*)
-    - Department of Political Science  
-
-2. **B.A. in Political Science and International Relations, Yonsei University** (*2025*)
-    - Underwood International College, Yonsei University
-
-# Contacts
-- Email: sunwookwak@gmail.com
-- Google Scholar: [Sunwoo Kwak](https://scholar.google.com/citations?user=c22rzSYAAAAJ&hl=en)
-- LinkedIn: [linkedin.com/in/sunwookwak/](https://www.linkedin.com/in/sunwookwak/)
+I am a graduate student in Political Science at Yonsei University (Seoul, South Korea). I study American Politics, Legislative Studies, Elections, and Public Opinion.
 
 # CV
 - [CV link](cv.html)
+
+# Contacts
+- Email: [sunwookwak@yonsei.ac.kr](mailto:sunwookwak@yonsei.ac.kr)
+- Google Scholar: [Sunwoo Kwak](https://scholar.google.com/citations?user=c22rzSYAAAAJ&hl=en)
+- LinkedIn: [linkedin.com/in/sunwookwak/](https://www.linkedin.com/in/sunwookwak/)
