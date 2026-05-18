@@ -2,8 +2,6 @@
 title: "CV"
 ---
 
-*Updated: January 21, 2026*
-
 <embed src="cv_source.pdf" type="application/pdf" width="100%" height="800px">
 
 [Download PDF](cv_source.pdf)
