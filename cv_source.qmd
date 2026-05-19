@@ -22,7 +22,7 @@ format:
           \newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
           \newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
           \name{Sunwoo Kwak}
-          \address{\href{https://scholar.google.com/citations?user=c22rzSYAAAAJ&hl=en}{Google Scholar} / \href{https://sunwookwak-polisci.github.io/website/}{Website}}
+          \address{\href{https://scholar.google.com/citations?user=c22rzSYAAAAJ&hl=en}{Google Scholar} / \href{https://sunwookwak-polisci.github.io/}{Website}}
           \address{Sinchon-dong, Seodaemun-gu, Seoul, Republic of Korea}
 ---
 
