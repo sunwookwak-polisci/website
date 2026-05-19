@@ -3,9 +3,21 @@
 .RData
 .Ruserdata
 .claude
+CLAUDE.md
 
 /.quarto/
 .DS_Store
 *_files/
 
 **/*.quarto_ipynb
+
+# LaTeX intermediates from the lualatex CV pipeline
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
