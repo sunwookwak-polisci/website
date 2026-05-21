@@ -27,7 +27,7 @@ format:
 ---
 
 \begin{center}
-(Updated: May 18, 2026)
+(Updated: May 19, 2026)
 \end{center}
 
 ```{=latex}
