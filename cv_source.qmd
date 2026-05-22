@@ -48,13 +48,9 @@ Underwood International College, Yonsei University
 \begin{rSection}{RESEARCH INTERESTS}
 ```
 
-• **American Politics**
-
-• **Legislative Studies and Congress**
-
-• **Political Parties and Elections**
-
-• **Political Communication and Public Opinion**
+- **American Politics** and **Congress**
+- **Comparative Politics** and **Legislative Studies**
+- **Elections** and **Public Opinion**
 
 ```{=latex}
 \end{rSection}
