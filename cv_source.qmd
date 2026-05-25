@@ -49,8 +49,9 @@ Underwood International College, Yonsei University
 ```
 
 - **American Politics** and **Congress**
-- **Comparative Politics** and **Legislative Studies**
+- **Comparative Politics** and **Legislative Institutions**
 - **Elections** and **Public Opinion**
+
 
 ```{=latex}
 \end{rSection}
